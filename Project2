@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title></title>
+</head>
+<body>
+<h3>Rusty Steele</h3>
+<p>Hi MoM, I'm your sweet baby!</p>
+<img src="AKASHSAHOO.jpg">
+<h4>Some of my favorite places:</h4>
+<ul>
+	<li>Always to stay with you</li>
+	<li>In your sweet heart</li>
+	<li>With my caring DAD </li>
+</ul>
+
+<p>Make sure to follow me on 
+	<a href="https://www.facebook.com/">My Facebook</a> and 
+	<a href="https://www.linkedin.com/">My Linkedin</a>
+</p>
+	
+
+</body>
+</html>
